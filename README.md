@@ -1,1 +1,1 @@
-# Checkot
+# Checkout
