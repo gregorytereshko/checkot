@@ -1,0 +1,5 @@
+require_relative 'checkout/checkout'
+require_relative 'checkout/c_c'
+require_relative 'checkout/p_c'
+require_relative 'checkout/w_a'
+require_relative 'checkout/pricing_rule'
